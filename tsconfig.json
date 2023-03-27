@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+
+    "target": "ES5",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+
+    /* Modules */
+    "module": "commonjs",                         /* Specify what module code is generated. */
+
+    "strictNullChecks": true, 
+
+    "lib": ["ESNext","dom"]
+                            
+  }
+}
